@@ -13,7 +13,7 @@ The *components* folder has been created so that we can share similar pieces of 
 
 ## Design
 - Download the Figma app
-- Open the [Landing Page](https://www.figma.com/file/0BNiulx6Bm479pJDF9XMYA/Landing-page-Busin-1-(Community)?node-id=1%3A2) design document
+- Open the [Landing Page](https://www.figma.com/file/Pucv53KDfj3qvLtRFWMK2E/HTML-CSS-Landing-Page) design document. This link will take you to Figma.
 - Make sure to ask questions as needed about design
 
 ## Run
